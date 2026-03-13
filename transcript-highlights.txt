@@ -1,0 +1,16 @@
+Transcript Highlights
+
+1. Setting the vision from the start (Session 1)
+At the beginning I laid out the full idea for the project, including the app name, tagline, five feature cards, a stat sheet preview, and the modern minimal fitness style I wanted. Because the vision was clear from the start, the first version already had the right structure. Most of the work after that was just refining things instead of rebuilding everything.
+
+2. Connecting everything to real data (Session 3)
+A big change was when I made the stat sheet connect to the lifts being added. Everything needed to update based on what the user tracks, and if nothing is entered there should be a placeholder. Before this the numbers were fake, but after this change the PRs, goals, sessions, and dashboard all updated based on real data.
+
+3. Making it feel like an app instead of a website (Session 4)
+I realized the layout felt more like a website than an app because the features were hidden behind text with no clear buttons. I changed the structure to a tab based layout with a persistent app style interface. This ended up being one of the biggest structural improvements.
+
+4. Replacing the progress chart with badges (Session 5)
+The progress chart wasn’t working the way I wanted, so instead of trying to fix it I replaced it with a milestone badge system. This added 21 badges across five categories with different tiers and unlock animations, which actually made tracking progress feel more motivating.
+
+5. Adding demo data with a reset option (Session 5)
+Near the end I added demo data so the app isn’t empty when someone opens it. The page loads with example stats and sessions, but there is also a button to clear everything and enter your own data. This makes it easier for someone to immediately understand how the app works.
